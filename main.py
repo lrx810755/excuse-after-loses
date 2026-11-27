@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # One line, 151 characters, within the 200 character limit.
+# Written with no trailing newline; deterministic, no network.
 LINE = "I lost the bounty because I spent my whole compute budget ranking 4,000 jokes, then submitted the one I ranked last. The spreadsheet was very thorough."
 
 
